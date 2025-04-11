@@ -1,4 +1,20 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
+/* Created by: Kukwac
+* Created on: Mar 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit2-01-HTML-JS-HelloWorld
 */
+
+body {
+    background-color: rgb(0, 255, 149);
+}
+
+h1 {
+    background-color: rgb(241, 104, 223);
+    color: hsl(0, 100%, 50%);
+    padding: 40px;
+    text-align: center;
+}
+
+p {
+    background-color: #e5ff00;
+}
